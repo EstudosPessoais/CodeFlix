@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJupMSPg1efaWv3VQSdoSCvDLJ2jHsIjvcwe+s3Casn6pOw+MH0R+VyOtZUVE3KONTb5s3G6mAtos5W6FBvABw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.souza\\Desktop\\Softwares&Codes\\ProjetosPessoais\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.souza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabriel.souza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabriel.souza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
