@@ -1,0 +1,31 @@
+## Arquivos e pastas relacionados ao .NET Core e .NET Standard
+bin/
+obj/
+out/
+
+## Arquivos de artefatos
+*.nupkg
+*.user
+*.userosscache
+*.actproj
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Windows
+*.dll
+*.exe
+*.pdb
+*.DS_Store
+*.swp
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.core
