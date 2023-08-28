@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FC.Codeflix.Catalog.Domain
-build_property.ProjectDir = C:\Users\gabriel.souza\Desktop\Softwares&Codes\ProjetosPessoais\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\
+build_property.ProjectDir = \\wsl.localhost\Arch\home\biel\desktop\personalProjects\CodeFlix\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\
