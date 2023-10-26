@@ -326,3 +326,6 @@ C:/Users/gabriel.souza/Desktop/Softwares&Codes/ProjetosPessoais/FC.Codeflix.Cata
 \\wsl.localhost\Arch\home\biel\desktop\personalProjects\CodeFlix\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 \\wsl.localhost\Arch\home\biel\desktop\personalProjects\CodeFlix\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\bin\Debug\net6.0\FC.Codeflix.Catalog.Application.dll
 \\wsl.localhost\Arch\home\biel\desktop\personalProjects\CodeFlix\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\bin\Debug\net6.0\FC.Codeflix.Catalog.Application.pdb
+\\wsl.localhost\Arch\home\biel\desktop\personalProjects\CodeFlix\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\bin\Debug\net6.0\MediatR.dll
+\\wsl.localhost\Arch\home\biel\desktop\personalProjects\CodeFlix\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\bin\Debug\net6.0\MediatR.Contracts.dll
+\\wsl.localhost\Arch\home\biel\desktop\personalProjects\CodeFlix\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
