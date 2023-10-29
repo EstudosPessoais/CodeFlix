@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wCofm8UhRo/E5rIXii4fswKgkYks7nNo/EQhPO4+F8PtXx2gOcKWEqLaJ2Xw8/QlOVcyQh6RzMkXYw/EPHkucA==",
+  "dgSpecHash": "o9ECIuCXvaE8YsSqFewLpbc57xYHDK6G29/13R/d5uP9483akVIvenVWD5smFILwS9ZhYcSPJtnc+XT8kqZhkw==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Arch\\home\\biel\\desktop\\personalProjects\\CodeFlix\\FC.Codeflix.Catalog\\tests\\FC.Codeflix.Catalog.UnitTests\\FC.Codeflix.Catalog.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\gabri\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
