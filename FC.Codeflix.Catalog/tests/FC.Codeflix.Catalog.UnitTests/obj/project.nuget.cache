@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "o9ECIuCXvaE8YsSqFewLpbc57xYHDK6G29/13R/d5uP9483akVIvenVWD5smFILwS9ZhYcSPJtnc+XT8kqZhkw==",
+  "dgSpecHash": "r56/mbOS9wyzv4UQij+LoAZ1U9TnkLbd3kvNkWISCH8vj1gUrvjOpta5oa5Se/EUSCpFkc3WbpZyh0oA+4Z96Q==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Arch\\home\\biel\\desktop\\personalProjects\\CodeFlix\\FC.Codeflix.Catalog\\tests\\FC.Codeflix.Catalog.UnitTests\\FC.Codeflix.Catalog.UnitTests.csproj",
   "expectedPackageFiles": [
