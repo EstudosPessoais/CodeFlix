@@ -47,17 +47,6 @@
                 }
             }
 
-            
-
-            
-            
-
-            
-
-            
-            
-
-
             return invalidInputsList;
         }
     }
